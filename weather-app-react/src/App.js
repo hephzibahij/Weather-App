@@ -14,11 +14,7 @@ function App() {
         <div className="location">
           <p>Nigeria</p>
         </div>
-        <div className="temp">
-          <h1>60 degree F</h1>
-        </div>
-        <div className="decription">
-          <p>clouds</p>
+        <div className="temp">git pull
         </div>
       </div>
       <div className="bottom">
