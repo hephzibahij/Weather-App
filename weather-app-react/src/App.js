@@ -14,7 +14,7 @@ function App() {
         <div className="location">
           <p>Nigeria</p>
         </div>
-        <div className="temp">git pull
+        <div className="temp">
         </div>
       </div>
       <div className="bottom">
